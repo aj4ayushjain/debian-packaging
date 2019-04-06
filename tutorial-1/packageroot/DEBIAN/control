@@ -1,0 +1,12 @@
+Package: hello
+Version: 1.0.0
+Architecture: all
+Maintainer:Ayush Jain<aj4ayushjain@gmail.com>
+Depends: python
+Description: hello package
+ hello package is written in Python
+ and prints a greeting.
+ .
+ It is awesome.
+ Just that packaging begins.
+ Fun part is description follows only after a single space.;)
